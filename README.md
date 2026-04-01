@@ -5,7 +5,7 @@
 ###
 
 <br clear="both">
-I code with
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabian-Burdick/Fabian-Burdick/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabian-Burdick/Fabian-Burdick/output/pacman-contribution-graph.svg">
@@ -13,7 +13,7 @@ I code with
 </picture>
 
 ###
-
+I code with
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
