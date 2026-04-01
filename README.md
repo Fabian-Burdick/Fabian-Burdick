@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=120&section=header&reversal=true&text=Hi,%20I'm%20Fabian%20<br>I'm%20learning%20frontend%20and%20backend%20development%20at%20the%20Developer%20Academy%20in%20Munich.&fontSize=16&fontAlign=50&fontAlignY=40&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=120&section=header&reversal=true&text=Hi,%20I'm%20Fabian%20I'm%20learning%20frontend%20and%20backend%20development%20at%20the%20Developer%20Academy%20in%20Munich.&fontSize=16&fontAlign=50&fontAlignY=40&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
 
 ###
