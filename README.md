@@ -13,7 +13,7 @@
 </picture>
 
 ###
-Skills
+Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -23,6 +23,7 @@ Skills
 </div>
 
 ###
+
 Socialmedia
 <div align="left">
   <a href="https://www.instagram.com/fabi_bur_/" target="_blank">
